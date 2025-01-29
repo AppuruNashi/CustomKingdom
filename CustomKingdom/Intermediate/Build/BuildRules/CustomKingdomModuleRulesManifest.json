@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"T:\\ProjetsPerso\\CustomKingdom\\CustomKingdom\\Source\\CustomKingdom\\CustomKingdom.Build.cs",
+		"T:\\ProjetsPerso\\CustomKingdom\\CustomKingdom\\Source\\CustomKingdom.Target.cs",
+		"T:\\ProjetsPerso\\CustomKingdom\\CustomKingdom\\Source\\CustomKingdomEditor.Target.cs"
+	],
+	"EngineVersion": "5.5.2"
+}

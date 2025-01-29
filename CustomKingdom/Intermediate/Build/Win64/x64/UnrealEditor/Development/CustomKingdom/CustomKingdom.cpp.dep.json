@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "t:\\projetsperso\\customkingdom\\customkingdom\\source\\customkingdom\\customkingdom.cpp",
+        "ProvidedModule": "",
+        "PCH": "t:\\projetsperso\\customkingdom\\customkingdom\\intermediate\\build\\win64\\x64\\customkingdomeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "t:\\projetsperso\\customkingdom\\customkingdom\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\customkingdom\\definitions.customkingdom.h",
+            "t:\\projetsperso\\customkingdom\\customkingdom\\source\\customkingdom\\customkingdom.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

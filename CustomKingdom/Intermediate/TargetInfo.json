@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "CustomKingdom",
+			"Path": "..\\Source\\CustomKingdom.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "CustomKingdomEditor",
+			"Path": "..\\Source\\CustomKingdomEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

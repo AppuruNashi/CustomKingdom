@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-CustomKingdom.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"T:\ProjetsPerso\CustomKingdom\CustomKingdom\Intermediate\Build\Win64\x64\CustomKingdomEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"T:\ProjetsPerso\CustomKingdom\CustomKingdom\Intermediate\Build\Win64\x64\UnrealEditor\Development\CustomKingdom\CustomKingdom.cpp.obj"
+"T:\ProjetsPerso\CustomKingdom\CustomKingdom\Intermediate\Build\Win64\x64\UnrealEditor\Development\CustomKingdom\PerModuleInline.gen.cpp.obj"
+"T:\ProjetsPerso\CustomKingdom\CustomKingdom\Intermediate\Build\Win64\x64\UnrealEditor\Development\CustomKingdom\Default.rc2.res"
+/OUT:"T:\ProjetsPerso\CustomKingdom\CustomKingdom\Intermediate\Build\Win64\x64\UnrealEditor\Development\CustomKingdom\UnrealEditor-CustomKingdom.lib"
